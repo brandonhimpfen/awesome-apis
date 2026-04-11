@@ -90,6 +90,7 @@
 - [YouTube Data API](https://developers.google.com/youtube/v3) – API for video metadata, channels, playlists, and analytics.
 - [Reddit API](https://www.reddit.com/dev/api/) – Access to posts, comments, subreddits, and user interactions.
 - [LinkedIn API](https://learn.microsoft.com/linkedin/) – API for profiles, jobs, ads, content, and analytics.
+- [BulkPublish API](https://www.bulkpublish.com) – Social media publishing API for 11 platforms with scheduling, analytics, and media upload. REST API with OpenAPI spec, Python & Node.js SDKs, and MCP server.
 
 ## Open Data & Public APIs
 
