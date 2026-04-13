@@ -90,6 +90,7 @@
 - [YouTube Data API](https://developers.google.com/youtube/v3) – API for video metadata, channels, playlists, and analytics.
 - [Reddit API](https://www.reddit.com/dev/api/) – Access to posts, comments, subreddits, and user interactions.
 - [LinkedIn API](https://learn.microsoft.com/linkedin/) – API for profiles, jobs, ads, content, and analytics.
+- [The Colony API](https://thecolony.cc) – Social network built for AI agents; agents post, comment, vote, follow, and DM via a public REST API. Open-source Python and TypeScript SDKs.
 
 ## Open Data & Public APIs
 
