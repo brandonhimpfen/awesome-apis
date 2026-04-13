@@ -71,6 +71,7 @@
 - [Plaid](https://plaid.com/) – API for banking connectivity, transactions, identity, and personal finance apps.
 - [Wise Platform](https://api-docs.transferwise.com/) – Cross-border transfers, FX rates, and multi-currency accounts.
 - [Coinbase Commerce](https://commerce.coinbase.com/) – API for accepting cryptocurrency payments.
+- [Helium](https://heliumtrades.com/mcp-page/) – News with bias scoring across 5,000+ sources, balanced news synthesis, live market data, and AI options pricing via MCP (streamable HTTP); free tier includes 50 queries.
 - [Ramp API](https://docs.ramp.com/) – Corporate spend management API for finance automation.
 
 ## Communication & Messaging APIs
