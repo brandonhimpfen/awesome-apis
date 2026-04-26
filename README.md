@@ -99,6 +99,7 @@
 - [World Bank API](https://data.worldbank.org/developers) – Economic indicators and global development metrics.
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
+- [Currents](https://currentsapi.services/) – Real-time and historical global news API with SDKs and free tier.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
