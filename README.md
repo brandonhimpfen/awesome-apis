@@ -61,6 +61,7 @@
 - [Mapbox](https://www.mapbox.com/) – Developer-focused mapping platform with customizable maps and navigation tools.
 - [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API) – Open geospatial data for map and routing applications.
 - [Geoapify](https://www.geoapify.com/) – Mapping and geocoding API built on open data sources.
+- [PostalCodes](https://postalcodes.info/api) – Global postal code search, country exports, and address validation data.
 - [HERE Maps API](https://developer.here.com/) – APIs for routing, traffic, geocoding, and fleet logistics.
 - [ArcGIS REST API](https://developers.arcgis.com/rest/) – Enterprise-grade GIS tools for spatial analytics and maps.
 
