@@ -43,6 +43,7 @@
 - [Hapi](https://hapi.dev/) – Robust Node.js framework with built-in validation and API tooling.
 - [Flask](https://flask.palletsprojects.com/) – Lightweight Python framework ideal for small to mid-size APIs.
 - [Django REST Framework](https://www.django-rest-framework.org/) – Comprehensive toolkit for building powerful REST APIs in Django.
+- [HttpMaster](https://www.httpmaster.net/) – Free desktop tool for HTTP testing and debugging.
 
 ## AI & Machine Learning APIs
 
