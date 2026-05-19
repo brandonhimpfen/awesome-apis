@@ -84,6 +84,7 @@
 ## Social Media APIs
 
 - [X API (Twitter)](https://developer.x.com/) – API for tweets, analytics, streaming, and real-time social data.
+- [TwitterAPI.io](https://twitterapi.io) – Third-party real-time API for public X (Twitter) data — tweets, profiles, search — at $0.15 per 1K tweets.
 - [Facebook Graph API](https://developers.facebook.com/docs/graph-api) – API for Facebook data, pages, ads, and insights.
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) – Business-grade API for posts, analytics, and media insights.
 - [TikTok API](https://developers.tiktok.com/) – API for video posting, analytics, and audience insights.
