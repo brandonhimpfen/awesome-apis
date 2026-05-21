@@ -99,6 +99,7 @@
 - [World Bank API](https://data.worldbank.org/developers) – Economic indicators and global development metrics.
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
+- [BrewPage](https://kochetkov-ma.github.io/brewpage-openapi/) – Free hosting platform for HTML/Markdown content, key-value entries, JSON documents, and arbitrary files; OpenAPI 3.1 spec, short URLs, no signup.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
