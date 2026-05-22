@@ -101,6 +101,8 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
+- [TideTurtle](https://tideturtle.com/developers) – Free tide times and tide charts API + MCP server for 1,414 coastal places worldwide.
+
 ## Monitoring, Testing & Security Tools
 
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) – Official security guidance for API risk categories.
