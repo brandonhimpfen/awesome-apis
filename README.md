@@ -84,6 +84,7 @@
 ## Social Media APIs
 
 - [X API (Twitter)](https://developer.x.com/) – API for tweets, analytics, streaming, and real-time social data.
+- [GetXAPI](https://www.getxapi.com) – Third-party API for X (Twitter) data — reads (search, profiles, follower graph, timeline, bookmarks, mentions) and writes (post, like, retweet, follow, DM, articles). Bearer-token auth.
 - [Facebook Graph API](https://developers.facebook.com/docs/graph-api) – API for Facebook data, pages, ads, and insights.
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) – Business-grade API for posts, analytics, and media insights.
 - [TikTok API](https://developers.tiktok.com/) – API for video posting, analytics, and audience insights.
