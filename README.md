@@ -54,6 +54,7 @@
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
+- [Rendobar](https://rendobar.com/) – Hosted REST API for running FFmpeg media processing jobs on video, images, and audio, with an MCP server for AI agents and a free tier.
 
 ## Mapping, Geospatial & Location APIs
 
