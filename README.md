@@ -63,6 +63,7 @@
 - [Geoapify](https://www.geoapify.com/) – Mapping and geocoding API built on open data sources.
 - [HERE Maps API](https://developer.here.com/) – APIs for routing, traffic, geocoding, and fleet logistics.
 - [ArcGIS REST API](https://developers.arcgis.com/rest/) – Enterprise-grade GIS tools for spatial analytics and maps.
+- [NetLoc8](https://netloc8.com) – IP geolocation API with framework-native SDKs for Next.js, React, and Go. Free tier included.
 
 ## Payments & Fintech APIs
 
