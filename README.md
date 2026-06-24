@@ -52,6 +52,7 @@
 - [AWS Bedrock](https://aws.amazon.com/bedrock/) – Foundation model API suite integrated with AWS services.
 - [Cohere API](https://docs.cohere.com/) – NLP models for embeddings, RAG, generation, and semantic search.
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
+- [Prism API](https://github.com/go165/prism-api-promo) – OpenAI-compatible AI API gateway for overseas developers, with GPT-5.5 access, usage billing, quota controls, and crypto-friendly recharge options.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
 
