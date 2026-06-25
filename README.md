@@ -54,6 +54,7 @@
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
+- [MentionsAPI](https://mentionsapi.com/) – API to check whether AI mentions, ranks, and cites a brand across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews, AI Mode, and Bing Copilot.
 
 ## Mapping, Geospatial & Location APIs
 
