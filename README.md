@@ -93,6 +93,7 @@
 
 ## Open Data & Public APIs
 
+- [Block Lottos API](https://blocklottos.com/openapi.json) – Public OpenAPI spec for lottery stats, jackpots, draw history, ticket transaction builders, and ad placement routes.
 - [NASA APIs](https://api.nasa.gov/) – Public data and imagery for space exploration and research.
 - [NOAA API](https://www.noaa.gov/data) – Weather, climate, and environmental datasets via API.
 - [UN Data API](https://unstats.un.org/unsd/) – Global demographic, economic, and development data.
