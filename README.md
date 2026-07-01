@@ -101,6 +101,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [Staying API](https://stayingapi.com) – Real-time Airbnb and short-term-rental listing data: photos, reviews, host, pricing, and 12-month availability, via REST and MCP for AI agents.
 
 ## Monitoring, Testing & Security Tools
 
