@@ -84,6 +84,7 @@
 ## Social Media APIs
 
 - [X API (Twitter)](https://developer.x.com/) – API for tweets, analytics, streaming, and real-time social data.
+- [Xquik](https://xquik.com) - X/Twitter data API for search, timelines, followers, monitors, webhooks, SDKs, OpenAPI, and MCP workflows.
 - [Facebook Graph API](https://developers.facebook.com/docs/graph-api) – API for Facebook data, pages, ads, and insights.
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) – Business-grade API for posts, analytics, and media insights.
 - [TikTok API](https://developers.tiktok.com/) – API for video posting, analytics, and audience insights.
