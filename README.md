@@ -101,6 +101,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [otwarteAPI.pl](https://otwarteapi.pl/) – Directory of Polish and EU public government APIs (VAT, KRS, GUS, NBP, ECB, Eurostat, and more), with a machine-readable `ai-catalog.json` manifest for AI agents.
 
 ## Monitoring, Testing & Security Tools
 
