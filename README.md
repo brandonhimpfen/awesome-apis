@@ -54,6 +54,7 @@
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
+- [Bride Cognitive API](https://bride.gracestack.se) – HDC-powered API for semantic text similarity, emotion analysis, and anomaly detection. Free tier available.
 
 ## Mapping, Geospatial & Location APIs
 
