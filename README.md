@@ -69,6 +69,7 @@
 - [Stripe API](https://stripe.com/docs/api) – Payments, subscriptions, invoicing, and financial services via a modern developer API.
 - [PayPal / Braintree API](https://developer.paypal.com/) – APIs for payments, billing agreements, and marketplace use cases.
 - [Plaid](https://plaid.com/) – API for banking connectivity, transactions, identity, and personal finance apps.
+- [open-banking.io](https://open-banking.io) – Open banking without the certificate tax – connect any EU/UK bank via a single API, no eIDAS QWAC needed. EU/UK alternative to Plaid.
 - [Wise Platform](https://api-docs.transferwise.com/) – Cross-border transfers, FX rates, and multi-currency accounts.
 - [Coinbase Commerce](https://commerce.coinbase.com/) – API for accepting cryptocurrency payments.
 - [Ramp API](https://docs.ramp.com/) – Corporate spend management API for finance automation.
