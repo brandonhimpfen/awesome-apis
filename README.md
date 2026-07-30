@@ -66,6 +66,7 @@
 
 ## Payments & Fintech APIs
 
+- [Adanos](https://adanos.org/) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Stripe API](https://stripe.com/docs/api) – Payments, subscriptions, invoicing, and financial services via a modern developer API.
 - [PayPal / Braintree API](https://developer.paypal.com/) – APIs for payments, billing agreements, and marketplace use cases.
 - [Plaid](https://plaid.com/) – API for banking connectivity, transactions, identity, and personal finance apps.
