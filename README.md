@@ -95,6 +95,7 @@
 
 - [NASA APIs](https://api.nasa.gov/) – Public data and imagery for space exploration and research.
 - [NOAA API](https://www.noaa.gov/data) – Weather, climate, and environmental datasets via API.
+- [Project Cost Estimator API](https://projectcostestimator.com/api-docs) – Website and software project cost benchmarks: platform, regional and team-tier multipliers, no auth required.
 - [UN Data API](https://unstats.un.org/unsd/) – Global demographic, economic, and development data.
 - [World Bank API](https://data.worldbank.org/developers) – Economic indicators and global development metrics.
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
