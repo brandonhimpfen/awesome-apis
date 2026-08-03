@@ -80,6 +80,7 @@
 - [Mailgun](https://www.mailgun.com/) – Transactional and bulk email API with strong deliverability tools.
 - [Vonage API](https://developer.vonage.com/) – Communication APIs for SMS, voice, video, and authentication.
 - [Pusher](https://pusher.com/) – Real-time WebSocket API for multiplayer apps, notifications, and live features.
+- [sms-florin](https://flo-voice1.com/) – REST API and npm SDK to rent real phone numbers (physical SIM cards, not virtual) and receive SMS/OTP verification codes, built for testing signup and 2FA flows in CI/QA.
 
 ## Social Media APIs
 
