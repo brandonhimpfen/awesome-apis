@@ -110,6 +110,7 @@
 - [Kong Gateway](https://konghq.com/) – API gateway for routing, authentication, and service discovery.
 - [Tyk API Gateway](https://tyk.io/) – Open-source API gateway with analytics and lifecycle management.
 - [Nginx API Gateway](https://www.nginx.com/) – High-performance gateway for API load balancing and security.
+- [DriftSignal](https://www.driftsignal.io) – API contract drift monitoring that validates live responses against their OpenAPI spec and flags type mismatches, missing fields, and undocumented status codes.
 
 ## Learning Resources
 
