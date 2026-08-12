@@ -66,6 +66,7 @@
 
 ## Payments & Fintech APIs
 
+- [Funding Signals](https://fundingsignals.net/?utm_source=github&utm_medium=readme&utm_campaign=awesome-apis) – API that scores and surfaces private-company SEC Form D funding filings within hours of filing, for sales/investor prospecting. Free tier available.
 - [Stripe API](https://stripe.com/docs/api) – Payments, subscriptions, invoicing, and financial services via a modern developer API.
 - [PayPal / Braintree API](https://developer.paypal.com/) – APIs for payments, billing agreements, and marketplace use cases.
 - [Plaid](https://plaid.com/) – API for banking connectivity, transactions, identity, and personal finance apps.
