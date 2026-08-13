@@ -35,6 +35,7 @@
 
 - [Postman](https://www.postman.com/) – Popular platform for testing, documenting, and automating API workflows.
 - [Insomnia](https://insomnia.rest/) – API client for REST, GraphQL, and gRPC with powerful automation features.
+- [Mongrel](https://www.visorcraft.com/mongrel) – Desktop workbench with an HTTP/REST, GraphQL, WebSocket, and gRPC API client.
 - [Swagger UI](https://swagger.io/tools/swagger-ui/) – Interactive documentation tool for OpenAPI specifications.
 - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) – Tooling for generating API clients and server stubs.
 - [FastAPI](https://fastapi.tiangolo.com/) – High-performance Python API framework with automatic OpenAPI docs.
