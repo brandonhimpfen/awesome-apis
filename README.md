@@ -90,6 +90,7 @@
 - [YouTube Data API](https://developers.google.com/youtube/v3) – API for video metadata, channels, playlists, and analytics.
 - [Reddit API](https://www.reddit.com/dev/api/) – Access to posts, comments, subreddits, and user interactions.
 - [LinkedIn API](https://learn.microsoft.com/linkedin/) – API for profiles, jobs, ads, content, and analytics.
+- [SocialCrawl](https://www.socialcrawl.dev/docs) – Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
 
 ## Open Data & Public APIs
 
