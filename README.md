@@ -106,6 +106,7 @@
 
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) – Official security guidance for API risk categories.
 - [API Fortress](https://apifortress.com/) – API monitoring and automated QA for enterprise workflows.
+- [TempMailGrab](https://tempmailgrab.com/api-docs) – Disposable email API for temporary inboxes, OTP extraction, and email verification testing.
 - [Hoppscotch](https://hoppscotch.io/) – Lightweight open-source API testing client.
 - [Kong Gateway](https://konghq.com/) – API gateway for routing, authentication, and service discovery.
 - [Tyk API Gateway](https://tyk.io/) – Open-source API gateway with analytics and lifecycle management.
