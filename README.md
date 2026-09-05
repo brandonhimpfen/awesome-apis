@@ -1,4 +1,4 @@
-# Awesome APIs [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome APIs [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -130,10 +130,10 @@
 
 ## Related Awesome Lists
 
-- [Awesome Stripe](https://github.com/awesomelistsio/awesome-stripe)
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
-- [Awesome SaaS](https://github.com/awesomelistsio/awesome-saas)
-- [Awesome Cloud](https://github.com/awesomelistsio/awesome-cloud)
+- [Awesome Stripe](https://github.com/brandonhimpfen/awesome-stripe)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas)
+- [Awesome Cloud](https://github.com/brandonhimpfen/awesome-cloud)
 
 ## Contribute
 
