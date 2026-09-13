@@ -49,6 +49,7 @@
 
 - [OpenAI API](https://platform.openai.com/) – API for GPT models, embeddings, assistants, and multimodal intelligence.
 - [Anthropic Claude API](https://www.anthropic.com/api) – API for Claude models supporting natural language reasoning and analysis.
+- [AIWave](https://aiwave.live/docs/quickstart) – OpenAI-compatible API access to Chinese AI providers with USD billing and dated pricing.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) – Unified ML platform offering training, prediction, and generative AI.
 - [AWS Bedrock](https://aws.amazon.com/bedrock/) – Foundation model API suite integrated with AWS services.
 - [Cohere API](https://docs.cohere.com/) – NLP models for embeddings, RAG, generation, and semantic search.
