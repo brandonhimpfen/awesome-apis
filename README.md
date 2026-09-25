@@ -73,6 +73,7 @@
 - [Wise Platform](https://api-docs.transferwise.com/) – Cross-border transfers, FX rates, and multi-currency accounts.
 - [Coinbase Commerce](https://commerce.coinbase.com/) – API for accepting cryptocurrency payments.
 - [Ramp API](https://docs.ramp.com/) – Corporate spend management API for finance automation.
+- [Eulerpool](https://eulerpool.com/developers) – Financial data API for global stocks, ETFs, fundamentals, macro series, crypto and FX.
 
 ## Communication & Messaging APIs
 
