@@ -103,6 +103,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [Vend API](https://extract.paypercall.dev) – Pay-per-call web-data API for AI agents: extract any URL to clean text or markdown, plus web search, link check, geolocation and PDF-to-text; settled on-chain in Nano (XNO) per call, no API key.
 
 ## Monitoring, Testing & Security Tools
 
