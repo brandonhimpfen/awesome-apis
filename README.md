@@ -95,6 +95,7 @@
 
 ## Open Data & Public APIs
 
+- [KaijuConverter API & MCP](https://kaijuconverter.com/api-docs) – REST API v1 (OpenAPI 3.1) and Streamable HTTP MCP server for converting 201+ file formats and 54 document/image Studio tools.
 - [NASA APIs](https://api.nasa.gov/) – Public data and imagery for space exploration and research.
 - [NOAA API](https://www.noaa.gov/data) – Weather, climate, and environmental datasets via API.
 - [UN Data API](https://unstats.un.org/unsd/) – Global demographic, economic, and development data.
