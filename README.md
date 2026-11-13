@@ -102,6 +102,7 @@
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
+- [Datacircle API](https://api.datacircle.dev/v1) – Find the best GTM APIs: price per 1,000 results, score and rate limits for every plan, no key. [Site](https://datacircle.dev)
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
