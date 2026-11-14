@@ -109,6 +109,7 @@
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) – Official security guidance for API risk categories.
 - [API Fortress](https://apifortress.com/) – API monitoring and automated QA for enterprise workflows.
 - [Hoppscotch](https://hoppscotch.io/) – Lightweight open-source API testing client.
+- [NextJSON](https://nextjson.com/) – Free online nested JSON parser and formatter that decodes escaped JSON strings.
 - [Kong Gateway](https://konghq.com/) – API gateway for routing, authentication, and service discovery.
 - [Tyk API Gateway](https://tyk.io/) – Open-source API gateway with analytics and lifecycle management.
 - [Nginx API Gateway](https://www.nginx.com/) – High-performance gateway for API load balancing and security.
