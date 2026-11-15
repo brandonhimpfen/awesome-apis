@@ -102,6 +102,7 @@
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
+- [No Stairs Please](https://nostairsplease.com/) – Curated US live-music venue directory and [MCP server](https://nostairsplease.com/mcp) covering small stages across all 50 states, booking contacts, and stage/load-in specs.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
