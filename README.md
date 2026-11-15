@@ -90,6 +90,7 @@
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) – Business-grade API for posts, analytics, and media insights.
 - [TikTok API](https://developers.tiktok.com/) – API for video posting, analytics, and audience insights.
 - [YouTube Data API](https://developers.google.com/youtube/v3) – API for video metadata, channels, playlists, and analytics.
+- [GetYouTubeTranscript API](https://getyoutubetranscript.com/api-docs) – REST API for YouTube video transcripts in any caption language, plus YouTube search, channel and playlist data.
 - [Reddit API](https://www.reddit.com/dev/api/) – Access to posts, comments, subreddits, and user interactions.
 - [LinkedIn API](https://learn.microsoft.com/linkedin/) – API for profiles, jobs, ads, content, and analytics.
 
