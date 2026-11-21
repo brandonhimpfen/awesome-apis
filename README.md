@@ -55,6 +55,7 @@
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
+- [FlashData](https://flashdata.dev/) — Real-time Google Search SERP, YouTube Data & timestamped transcripts, and cloud-storage YouTube video download APIs, CLI, and hosted MCP server; free trial (no credit card required), $0/mo pay-as-you-go ($1.00/1k Google searches, $0.50/1k YouTube Data, $0.10/GB download; optional plans from $49/mo).
 
 ## Mapping, Geospatial & Location APIs
 
